@@ -6,7 +6,7 @@ Welcome to the Sales Analysis Report project repository. This report was created
 
 - Total Sales: $34.49 million.
 - Top-Selling Products by Quantity: AAA Batteries(4-Pack) and AA Batteries(4-Pack).
-- Top-Selling Product by Sales: Macbook Pro Laptop and iPhone.
+- Top-Selling Products by Sales: Macbook Pro Laptop and iPhone.
 - Top-Performing Cities: San Francisco and Los Angeles.
 - Weekly Sales Trends: Tuesdays have consistently been the highest-performing day of the week.
 - Profit Margin: The current profit margin stands at 58.83%.
